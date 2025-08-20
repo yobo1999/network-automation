@@ -16,6 +16,7 @@ class api_request:
         self.password = getpass.getpass("Enter your password: ")
 
 
+   
 
     def get_devices(self):
         print('Starting Request')
